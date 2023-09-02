@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "895380739702",
+    "project_id": "finfitapp-35ab0",
+    "storage_bucket": "finfitapp-35ab0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:895380739702:android:32eb2364a79a6fe86bf157",
+        "android_client_info": {
+          "package_name": "in.edu.svecw.finfitapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "895380739702-a4n9md6vr6c46fe23ssrejpl87v1bnos.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.edu.svecw.finfitapp",
+            "certificate_hash": "aa1af8837f63e0be79c071ff2a30a7c121a79e0b"
+          }
+        },
+        {
+          "client_id": "895380739702-b8h3bmke18bib12m7h0auditsuclk20b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjaI_9hKokVBzWeWpHCDvi4SQ1MiNuspQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "895380739702-b8h3bmke18bib12m7h0auditsuclk20b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
